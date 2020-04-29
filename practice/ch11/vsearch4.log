@@ -1,0 +1,12 @@
+ImmutableMultiDict([('phrase', 'hitch-hiker'), ('letters', 'aeiou')])
+127.0.0.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:59.0) Gecko/20100101 Firefox/59.0
+{'i', 'e'}
+ImmutableMultiDict([('phrase', 'life, the universe, and everything'), ('letters', 'aeiou')])
+127.0.0.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:59.0) Gecko/20100101 Firefox/59.0
+{'a', 'i', 'u', 'e'}
+ImmutableMultiDict([('phrase', 'galaxy'), ('letters', 'xyz')])
+127.0.0.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:59.0) Gecko/20100101 Firefox/59.0
+{'y', 'x'}
